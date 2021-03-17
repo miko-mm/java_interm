@@ -3,7 +3,6 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 1, 2, Fizz, 4, Buzz, 6, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz
  */
 
-import java.util.stream.IntStream;
 
 public class ss21_fizzBuzz {
     public static void main(String[] args) {
@@ -27,3 +26,4 @@ public class ss21_fizzBuzz {
         }
     }
 }
+
