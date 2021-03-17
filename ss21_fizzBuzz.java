@@ -24,9 +24,6 @@ public class ss21_fizzBuzz {
             else
             // all other numbers
                 System.out.println(i);
-
         }
-
     }
-
 }
